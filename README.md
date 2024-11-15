@@ -17,7 +17,7 @@ The dataset used in this project is available on Kaggle:
 It consists of 17,880 job postings (17,014 legitimate and 866 fraudulent) with features like job title, company profile, job description, and more.
 
 ## Key Features
-- **Data Exploration and pre-processing**: Combines text and metadata for enhanced fraud detection.
+- **Data Exploration**: Combines text and metadata for enhanced fraud detection.
 - **Deep Learning Models**: Incorporates state-of-the-art transformer models like BERT and RoBERTa.
 - **Performance Metrics**: Evaluates models using metrics like accuracy, precision, recall, and F1-score.
 
